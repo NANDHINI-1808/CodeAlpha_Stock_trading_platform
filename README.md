@@ -11,6 +11,7 @@ Task 2: Stock Trading Platform
 4.Optional: file I/O or database for portfolio data.
 
 Technology:
+
 1)Java:programming language
 
 2)HashMap:for market data and portfolio holdings
